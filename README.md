@@ -48,6 +48,20 @@ Key data fields:
 
 ---
 
+# 🎯 Bowling Analysis Dashboard
+
+Quick insights into international cricket bowling metrics:
+
+- 📊 Runs by Player – Top bowlers by total runs conceded
+- 🥧 Bowling Average by Country – Pie chart comparisons
+- ⛳ Maiden Overs Leaders – Players with most maiden overs
+- 🧪 Economy Rate – Filterable breakdown with sliders
+- 🎯 Most Wickets – Highlights top wicket taker (e.g. B Kumar)
+
+![Bowling Analysis](https://github.com/shashireddyt8/-Asia-Cricket-Cup-Analysis-Dashboard/blob/main/Bowling_Analysis.png?raw=true)
+
+---
+
 ## 💡 5. Insights & Observations
 
 - **India** dominates in sixes and match wins.
